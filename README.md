@@ -13,6 +13,5 @@ All 4 internship tasks submission
 
 *MENTOR*: NEELA SANTOSH
 
-
 #TASK1- BIG DATA ANALYSIS#
 
