@@ -1,4 +1,4 @@
-#Codtech-Data-Analysis-Internship
+#CODTECH DATA ANALYSIS INTERNSHIP-
 All 4 internship tasks submission
 
 *COMPANY*: CODTECH IT SOLUTION
