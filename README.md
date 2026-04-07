@@ -13,7 +13,7 @@ All 4 internship tasks submission
 
 *MENTOR*: NEELA SANTOSH
 _______________________________________________________________________________________________________________________________________________________________
-1) TASK1- BIG DATA ANALYSIS:
+1) **TASK1- BIG DATA ANALYSIS:**
 
 ##DESCRIPTION OF THE TASK-
 
@@ -29,7 +29,6 @@ Further, I performed grouping operations to extract meaningful insights from the
 
 ____________________________________________________________________________________________________________________________________________________________________
 2) **TASK2- PREDICTIVE ANALYSIS USING MACHINE LEARNING:**
-
 ##DESCRIPTION OF THE TASK-
 
 In this task, I performed predictive analysis using machine learning techniques with the help of PySpark in a Google Colab environment. The primary objective was to build a regression model that could predict the tip amount based on the total bill using a real-world dataset. To begin with, I set up the environment by installing PySpark and initializing a Spark session, which is essential for handling large-scale data processing. The dataset used for this task was the popular “tips” dataset, which contains information about restaurant bills, including attributes such as total bill amount, tip, gender, smoking status, day, time, and size of the group. Since PySpark does not directly support loading data from an online URL, I first downloaded the dataset using the Pandas library and then saved it locally as a CSV file. After that, I loaded the dataset into a PySpark DataFrame with schema inference enabled, allowing the system to automatically detect the correct data types of each column.
@@ -43,7 +42,7 @@ Finally, I evaluated the performance of the model by generating predictions and 
 <img width="397" height="556" alt="Image" src="https://github.com/user-attachments/assets/8e944ce3-783b-4239-87ea-c26ef25e1aa6" />
 
 _______________________________________________________________________________________________________________________________________________________________
-3) TASK3- DASHBOARD DEVELOPMENT:
+3) **TASK3- DASHBOARD DEVELOPMENT:**
 
 ##DESCRIPTION OF THE TASK-
 
@@ -58,7 +57,7 @@ In addition to these visualizations, I created a line chart to analyze the trend
 <img width="1312" height="736" alt="Image" src="https://github.com/user-attachments/assets/49bc2250-3e8a-48e1-9400-7c0b11d6a592" />
 
 _______________________________________________________________________________________________________________________________________________________________
-4) TASK4- SENTIMENT ANALYSIS:
+4) **TASK4- SENTIMENT ANALYSIS:**
 
 ##DESCRIPTION OF THE TASK-
 
