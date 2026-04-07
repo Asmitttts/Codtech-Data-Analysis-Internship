@@ -28,7 +28,7 @@ Further, I performed grouping operations to extract meaningful insights from the
 <img width="494" height="554" alt="Image" src="https://github.com/user-attachments/assets/13f7838a-9bad-4aba-a8c0-bbdbc0d7d9a6" />
 
 ____________________________________________________________________________________________________________________________________________________________________
-2) TASK2-PREDICTIVE ANALYSIS USING MACHINE LEARNING:
+2) TASK2- PREDICTIVE ANALYSIS USING MACHINE LEARNING:
 
 ##DESCRIPTION OF THE TASK-
 
@@ -43,5 +43,17 @@ Finally, I evaluated the performance of the model by generating predictions and 
 <img width="397" height="556" alt="Image" src="https://github.com/user-attachments/assets/8e944ce3-783b-4239-87ea-c26ef25e1aa6" />
 
 _______________________________________________________________________________________________________________________________________________________________
-3) TASK3-
+3) TASK3- DASHBOARD DEVELOPMENT:
+
+##DESCRIPTION OF THE TASK-
+
+In this task, I developed an interactive dashboard using Power BI to visualize and analyze a dataset effectively. The primary objective of this task was to transform raw data into meaningful visual insights that can support decision-making. The dataset used for this project was the “tips” dataset, which contains information about restaurant transactions, including total bill amount, tip, gender, smoking status, day, time, and group size. Initially, I loaded the dataset into Power BI by importing the CSV file using the “Get Data” feature. Once the data was successfully loaded, I explored the dataset to understand the available fields and ensure that the data types were correctly assigned.
+
+After loading the dataset, I proceeded to create various visualizations to represent the data in an interactive and understandable format. The first visualization created was a bar chart that displayed the average total bill amount for each day of the week. This chart provided insights into customer spending patterns, showing that weekends, especially Sunday and Saturday, had higher average bill amounts compared to weekdays. This indicates that customer activity and spending are higher during weekends. The second visualization was a pie chart that illustrated the distribution of customers based on gender. The chart revealed that a higher percentage of customers were male compared to female, which provides useful information about customer demographics.
+
+In addition to these visualizations, I created a line chart to analyze the trend of tip amounts across different days of the week. This chart helped in understanding tipping behavior and identifying patterns over time. It showed that tips tend to be higher on weekends, which aligns with the observation of higher total bill amounts during those days. This indicates a positive relationship between customer spending and tipping behavior. Finally, I arranged all the visualizations in a structured layout and added a title to create a complete and professional dashboard. The dashboard provides actionable insights such as peak business days, customer demographics, and tipping trends. Overall, this task demonstrates the importance of data visualization in data analysis and highlights how Power BI can be used to create interactive dashboards that simplify complex data into meaningful insights.
+
+#OUTPUT-
+
+
 
