@@ -12,7 +12,7 @@ All 4 internship tasks submission
 *DURATION*: 6 WEEKS
 
 *MENTOR*: NEELA SANTOSH
-____________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________
 1) TASK1- BIG DATA ANALYSIS:
 
 ##DESCRIPTION OF THE TASK-
@@ -26,6 +26,7 @@ Further, I performed grouping operations to extract meaningful insights from the
 #OUTPUT-
 
 <img width="494" height="554" alt="Image" src="https://github.com/user-attachments/assets/13f7838a-9bad-4aba-a8c0-bbdbc0d7d9a6" />
+
 ____________________________________________________________________________________________________________________________________________________________________
 2) TASK2-PREDICTIVE ANALYSIS USING MACHINE LEARNING:
 
