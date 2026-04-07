@@ -38,6 +38,10 @@ After successfully loading the dataset, I moved on to preparing the data for mac
 
 Finally, I evaluated the performance of the model by generating predictions and analyzing the results. Using the trained model, I applied the transform() function to produce a new DataFrame that included a “prediction” column along with the original values. This allowed me to compare the actual tip values with the predicted ones, giving a clear understanding of how well the model performs. The results showed that the predicted values were quite close to the actual values, indicating that the model was able to capture the relationship between the variables effectively. Additionally, I examined the model’s coefficients and intercept, which provided further insight into how the model makes predictions. The coefficient indicated a positive relationship between the total bill and the tip, meaning that as the bill increases, the tip also tends to increase. Overall, this task helped me understand the complete workflow of building a machine learning model using PySpark, including data loading, feature engineering, model training, prediction, and evaluation, and demonstrated how predictive analysis can be used to derive meaningful insights from data.
 
+#OUTPUT-
+
+
+
 ____________________________________________________________________________________________________________________________________________________________________
 3) TASK3-
 
