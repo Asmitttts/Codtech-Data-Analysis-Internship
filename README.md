@@ -40,8 +40,7 @@ Finally, I evaluated the performance of the model by generating predictions and 
 
 #OUTPUT-
 
-
-
+<img width="397" height="556" alt="Image" src="https://github.com/user-attachments/assets/8e944ce3-783b-4239-87ea-c26ef25e1aa6" />
 ____________________________________________________________________________________________________________________________________________________________________
 3) TASK3-
 
