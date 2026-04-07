@@ -28,7 +28,7 @@ Further, I performed grouping operations to extract meaningful insights from the
 <img width="494" height="554" alt="Image" src="https://github.com/user-attachments/assets/13f7838a-9bad-4aba-a8c0-bbdbc0d7d9a6" />
 
 ____________________________________________________________________________________________________________________________________________________________________
-2) TASK2- PREDICTIVE ANALYSIS USING MACHINE LEARNING:
+2) **TASK2- PREDICTIVE ANALYSIS USING MACHINE LEARNING:**
 
 ##DESCRIPTION OF THE TASK-
 
@@ -55,5 +55,13 @@ In addition to these visualizations, I created a line chart to analyze the trend
 
 #OUTPUT-
 
+<img width="1312" height="736" alt="Image" src="https://github.com/user-attachments/assets/49bc2250-3e8a-48e1-9400-7c0b11d6a592" />
 
+_______________________________________________________________________________________________________________________________________________________________
+4) TASK4- SENTIMENT ANALYSIS:
+
+##DESCRIPTION OF THE TASK-
+
+
+#OUTPUT-
 
