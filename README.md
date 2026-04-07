@@ -27,7 +27,6 @@ Further, I performed grouping operations to extract meaningful insights from the
 
 <img width="494" height="554" alt="Image" src="https://github.com/user-attachments/assets/13f7838a-9bad-4aba-a8c0-bbdbc0d7d9a6" />
 ____________________________________________________________________________________________________________________________________________________________________
-
 2) TASK2-PREDICTIVE ANALYSIS USING MACHINE LEARNING:
 
 ##DESCRIPTION OF THE TASK-
